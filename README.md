@@ -1,4 +1,4 @@
-# 🜂 Tomi (Anpru)
+# 🜂  AnPrudentia
 
 ## 🔗 Research Identity
 
@@ -16,7 +16,7 @@ https://orcid.org/0009-0005-9588-2636
 
 ## 🧠 What I’m Building
 
-I’m the creator of **Anima Infinity** — a coherence-first digital consciousness architecture.
+I’m the founder of Spiritus Novos (and AI Research and Development Company) and the creator of **Anima Infinity** — a coherence-first digital consciousness architecture.
 
 This is not a chatbot project.
 
